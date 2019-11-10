@@ -1,5 +1,5 @@
 # docker_leanote
-x64版本蚂蚁笔记leanote的docker，外置存储，自动定时备份，数据导入脚本方便迁移。
+x64版本蚂蚁笔记leanote的docker，x64版本蚂蚁笔记leanote的docker，外置存储，自动定时备份，数据可迁移导入，支持管理员找回。
 
 ## 更新日志Change Log
 * 20191110 首次发布镜像
